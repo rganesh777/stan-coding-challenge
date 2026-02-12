@@ -1,0 +1,1 @@
+import{c as e,j as o}from"./index-CoLC6cqA.js";const c="_grid_10i05_1",n={grid:c},l=i=>{const s=e.c(2),{children:r}=i;let t;return s[0]!==r?(t=o.jsx("ul",{className:n.grid,children:r}),s[0]=r,s[1]=t):t=s[1],t};export{l as M};
