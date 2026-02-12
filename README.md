@@ -49,6 +49,8 @@ Prerequisites: Node.js (>=16) and npm (or yarn).
 ### What would you do differently if you were allocated more time?
 
 - Implement server-side rendering or static generation for the listing pages to improve first-contentful-paint.
+- Add skeleton loaders for listing pages to improve perceived performance while data is being fetched.
+- Add image placeholders and lazy loading (`loading="lazy") so images load smoothly without blocking page rendering, improving bandwidth usage and first contentful paint.
 - Implement searching, filtering, sorting UI, and infinite scroll with pagination.
 - check for accessibility issues.
 - Add more tests (unit, integration, E2E) and set up continuous integration (lint, test, build).
