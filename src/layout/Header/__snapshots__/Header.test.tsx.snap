@@ -1,0 +1,64 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Header > renders correctly 1`] = `
+<div>
+  <header
+    class="_header_c63be3"
+  >
+    <div
+      class="_headerTop_c63be3"
+    >
+      <div
+        class="container"
+      >
+        <div
+          class="_headerTopInner_c63be3 flex"
+        >
+          <h1>
+            <a
+              data-discover="true"
+              href="/"
+            >
+              DEMO Streaming
+            </a>
+          </h1>
+          <nav>
+            <ul
+              class="_headerTopLinks_c63be3 flex"
+            >
+              <li>
+                <a
+                  data-discover="true"
+                  href="/"
+                >
+                  Log in
+                </a>
+              </li>
+              <li>
+                <a
+                  class="_btn_c63be3 nav-cta"
+                  data-discover="true"
+                  href="/"
+                >
+                  Start your free trial
+                </a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </div>
+    <div
+      class="_headerBottom_c63be3"
+    >
+      <div
+        class="container"
+      >
+        <h2>
+          Popular Titles
+        </h2>
+      </div>
+    </div>
+  </header>
+</div>
+`;

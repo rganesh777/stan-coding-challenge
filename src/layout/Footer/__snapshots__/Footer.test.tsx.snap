@@ -1,0 +1,167 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Footer > renders correctly 1`] = `
+<div>
+  <footer
+    class="_footer_693b8c"
+  >
+    <div
+      class="container"
+    >
+      <ul
+        class="_footerLinks_693b8c flex flex-wrap"
+      >
+        <li>
+          <a
+            data-discover="true"
+            href="/"
+          >
+            Home
+          </a>
+        </li>
+        <li>
+          <a
+            data-discover="true"
+            href="/terms"
+          >
+            Terms and Conditions
+          </a>
+        </li>
+        <li>
+          <a
+            data-discover="true"
+            href="/privacy"
+          >
+            Privacy Policy
+          </a>
+        </li>
+        <li>
+          <a
+            data-discover="true"
+            href="/collection"
+          >
+            Collection Statement
+          </a>
+        </li>
+        <li>
+          <a
+            data-discover="true"
+            href="/help"
+          >
+            Help
+          </a>
+        </li>
+        <li>
+          <a
+            data-discover="true"
+            href="/account"
+          >
+            Manage Account
+          </a>
+        </li>
+      </ul>
+      <div
+        class="_footerCopyright_693b8c"
+      >
+        Copyright © 2016 DEMO Streaming. All Rights Reserved.
+      </div>
+      <div
+        class="_footerBottom_693b8c flex items-between flex-wrap"
+      >
+        <ul
+          class="_footerSocialIcons_693b8c flex"
+        >
+          <li>
+            <a
+              href="https://facebook.com"
+              rel="noopener noreferrer"
+              target="_blank"
+              title="Follow us on Facebook"
+            >
+              <img
+                alt="Facebook"
+                loading="lazy"
+                src="/assets/social/facebook-white.svg"
+              />
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://twitter.com"
+              rel="noopener noreferrer"
+              target="_blank"
+              title="Follow us on Twitter"
+            >
+              <img
+                alt="Twitter"
+                loading="lazy"
+                src="/assets/social/twitter-white.svg"
+              />
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://instagram.com"
+              rel="noopener noreferrer"
+              target="_blank"
+              title="Follow us on Instagram"
+            >
+              <img
+                alt="Instagram"
+                loading="lazy"
+                src="/assets/social/instagram-white.svg"
+              />
+            </a>
+          </li>
+        </ul>
+        <ul
+          class="_footerAppStoreIcons_693b8c flex flex-wrap"
+        >
+          <li>
+            <a
+              href="#"
+              rel="noopener noreferrer"
+              target="_blank"
+              title="Streamco App on App Store"
+            >
+              <img
+                alt="App Store"
+                loading="lazy"
+                src="/assets/store/app-store.svg"
+              />
+            </a>
+          </li>
+          <li>
+            <a
+              href="#"
+              rel="noopener noreferrer"
+              target="_blank"
+              title="Streamco App on Google Play"
+            >
+              <img
+                alt="Google Play"
+                loading="lazy"
+                src="/assets/store/play-store.svg"
+              />
+            </a>
+          </li>
+          <li>
+            <a
+              href="#"
+              rel="noopener noreferrer"
+              target="_blank"
+              title="Streamco App on Microsoft Store"
+            >
+              <img
+                alt="Microsoft Store"
+                loading="lazy"
+                src="/assets/store/windows-store.svg"
+              />
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </footer>
+</div>
+`;

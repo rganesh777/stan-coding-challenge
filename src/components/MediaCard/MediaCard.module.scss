@@ -1,0 +1,20 @@
+.mediaCard {
+  img {
+    width: 100%;
+    height: auto;
+    transition: transform 0.3s ease;
+  }
+
+  a:hover img {
+    transform: scale(1.05);
+  }
+
+  span {
+    color: #000;
+    display: inline-block;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    width: 100%;
+  }
+}
