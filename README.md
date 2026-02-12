@@ -55,4 +55,4 @@ Prerequisites: Node.js (>=16) and npm (or yarn).
 - Further refine UI/UX details, spacing, and responsive behaviour.
 - Add breadcrumbs navigation.
 - SEO - page title, meta tags, og tags.
-- Add utility classes for CSS.
+- Add reusable utility classes for common layout and styling patterns, reducing repetition and improving consistency across the app.
