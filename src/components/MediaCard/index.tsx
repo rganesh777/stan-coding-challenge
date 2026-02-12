@@ -7,7 +7,13 @@ const MediaCard = ({ item: { title = "", images } }: { item: MediaItem }) => {
   return (
     <li className={styles.mediaCard}>
       <Link to="#" title={title}>
-        <img src={images["Poster Art"]?.url ?? ""} alt={title} loading="lazy" />
+        <span className={styles.mediaCardImage}>
+          <img
+            src={images["Poster Art"]?.url ?? ""}
+            alt={title}
+            loading="lazy"
+          />
+        </span>
         <span>{title}</span>
       </Link>
     </li>

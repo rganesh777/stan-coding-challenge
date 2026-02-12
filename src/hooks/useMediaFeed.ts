@@ -16,7 +16,7 @@ export function useMediaFeed() {
     if (cache) return;
     const ac = new AbortController();
 
-    fetch("/feed/sample.json", { signal: ac.signal })
+    fetch("/stan-coding-challenge/feed/sample.json", { signal: ac.signal })
       .then((res) => {
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         return res.json();

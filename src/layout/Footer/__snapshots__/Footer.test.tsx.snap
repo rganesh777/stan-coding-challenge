@@ -81,7 +81,7 @@ exports[`Footer > renders correctly 1`] = `
               <img
                 alt="Facebook"
                 loading="lazy"
-                src="/assets/social/facebook-white.svg"
+                src="/stan-coding-challenge/assets/social/facebook-white.svg"
               />
             </a>
           </li>
@@ -95,7 +95,7 @@ exports[`Footer > renders correctly 1`] = `
               <img
                 alt="Twitter"
                 loading="lazy"
-                src="/assets/social/twitter-white.svg"
+                src="/stan-coding-challenge/assets/social/twitter-white.svg"
               />
             </a>
           </li>
@@ -109,7 +109,7 @@ exports[`Footer > renders correctly 1`] = `
               <img
                 alt="Instagram"
                 loading="lazy"
-                src="/assets/social/instagram-white.svg"
+                src="/stan-coding-challenge/assets/social/instagram-white.svg"
               />
             </a>
           </li>
@@ -119,7 +119,7 @@ exports[`Footer > renders correctly 1`] = `
         >
           <li>
             <a
-              href="#"
+              href="https://www.apple.com/app-store/"
               rel="noopener noreferrer"
               target="_blank"
               title="Streamco App on App Store"
@@ -127,13 +127,13 @@ exports[`Footer > renders correctly 1`] = `
               <img
                 alt="App Store"
                 loading="lazy"
-                src="/assets/store/app-store.svg"
+                src="/stan-coding-challenge/assets/store/app-store.svg"
               />
             </a>
           </li>
           <li>
             <a
-              href="#"
+              href="https://play.google.com/store"
               rel="noopener noreferrer"
               target="_blank"
               title="Streamco App on Google Play"
@@ -141,13 +141,13 @@ exports[`Footer > renders correctly 1`] = `
               <img
                 alt="Google Play"
                 loading="lazy"
-                src="/assets/store/play-store.svg"
+                src="/stan-coding-challenge/assets/store/play-store.svg"
               />
             </a>
           </li>
           <li>
             <a
-              href="#"
+              href="https://www.microsoft.com/store/apps"
               rel="noopener noreferrer"
               target="_blank"
               title="Streamco App on Microsoft Store"
@@ -155,7 +155,7 @@ exports[`Footer > renders correctly 1`] = `
               <img
                 alt="Microsoft Store"
                 loading="lazy"
-                src="/assets/store/windows-store.svg"
+                src="/stan-coding-challenge/assets/store/windows-store.svg"
               />
             </a>
           </li>

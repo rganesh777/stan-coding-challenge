@@ -5,6 +5,13 @@
     transition: transform 0.3s ease;
   }
 
+  .mediaCardImage {
+    width: 100%;
+    aspect-ratio: 2 / 3;
+    background-color: #e0e0e0;
+    object-fit: cover;
+  }
+
   a:hover img {
     transform: scale(1.05);
   }

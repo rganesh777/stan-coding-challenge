@@ -30,36 +30,36 @@ const FOOTER_LINKS: FooterLink[] = [
 const SOCIAL_LINKS: SocialLink[] = [
   {
     href: "https://facebook.com",
-    icon: "/assets/social/facebook-white.svg",
+    icon: "/stan-coding-challenge/assets/social/facebook-white.svg",
     title: "Facebook",
   },
   {
     href: "https://twitter.com",
-    icon: "/assets/social/twitter-white.svg",
+    icon: "/stan-coding-challenge/assets/social/twitter-white.svg",
     title: "Twitter",
   },
   {
     href: "https://instagram.com",
-    icon: "/assets/social/instagram-white.svg",
+    icon: "/stan-coding-challenge/assets/social/instagram-white.svg",
     title: "Instagram",
   },
 ];
 
 const APP_STORE_LINKS: AppStoreLink[] = [
   {
-    href: "#",
-    icon: "/assets/store/app-store.svg",
     title: "App Store",
+    href: "https://www.apple.com/app-store/",
+    icon: "/stan-coding-challenge/assets/store/app-store.svg",
   },
   {
-    href: "#",
-    icon: "/assets/store/play-store.svg",
     title: "Google Play",
+    href: "https://play.google.com/store",
+    icon: "/stan-coding-challenge/assets/store/play-store.svg",
   },
   {
-    href: "#",
-    icon: "/assets/store/windows-store.svg",
     title: "Microsoft Store",
+    href: "https://www.microsoft.com/store/apps",
+    icon: "/stan-coding-challenge/assets/store/windows-store.svg",
   },
 ];
 

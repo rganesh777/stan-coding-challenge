@@ -17,10 +17,10 @@ const Header = () => {
             <nav>
               <ul className={`${styles.headerTopLinks} flex`}>
                 <li>
-                  <Link to="/">Log in</Link>
+                  <Link to="/login">Log in</Link>
                 </li>
                 <li>
-                  <Link to="/" className={`${styles.btn} nav-cta`}>
+                  <Link to="/signup" className={`${styles.btn} nav-cta`}>
                     Start your free trial
                   </Link>
                 </li>

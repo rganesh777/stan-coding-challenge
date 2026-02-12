@@ -50,7 +50,6 @@ Prerequisites: Node.js (>=16) and npm (or yarn).
 
 - Implement server-side rendering or static generation for the listing pages to improve first-contentful-paint.
 - Add skeleton loaders for listing pages to improve perceived performance while data is being fetched.
-- Fix layout shift during the inage load.
 - Add image placeholders and lazy loading (`loading="lazy") so images load smoothly without blocking page rendering, improving bandwidth usage and first contentful paint.
 - Implement searching, filtering, sorting UI, and infinite scroll with pagination.
 - check for accessibility issues.

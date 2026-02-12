@@ -29,7 +29,7 @@ exports[`Header > renders correctly 1`] = `
               <li>
                 <a
                   data-discover="true"
-                  href="/"
+                  href="/login"
                 >
                   Log in
                 </a>
@@ -38,7 +38,7 @@ exports[`Header > renders correctly 1`] = `
                 <a
                   class="_btn_c63be3 nav-cta"
                   data-discover="true"
-                  href="/"
+                  href="/signup"
                 >
                   Start your free trial
                 </a>

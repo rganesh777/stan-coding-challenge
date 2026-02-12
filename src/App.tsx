@@ -7,7 +7,7 @@ import { routes } from "./routes";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/stan-coding-challenge/">
       <Routes>
         <Route element={<Layout />}>
           {routes.map((route) => {
