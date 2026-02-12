@@ -31,7 +31,7 @@ Prerequisites: Node.js (>=16) and npm (or yarn).
 - Single shared data hook (useMediaFeed) with a small module-level cache to avoid duplicate network requests and provide a simple refetch API.
 - React.memo for MediaCard to prevent unnecessary re-renders.
 - SCSS modules for scoped styling and predictable class names.
-- Semantic elements (<header>, <nav>, <main>, <footer>), ul/li in nav, alt text for images, focus-visible styles.
+- Semantic elements (header, nav, main, footer), ul/li in nav, alt text for images, focus-visible styles.
 - Unit tests with Vitest + Testing Library.
 
 ---
@@ -55,3 +55,4 @@ Prerequisites: Node.js (>=16) and npm (or yarn).
 - Further refine UI/UX details, spacing, and responsive behaviour.
 - Add breadcrumbs navigation.
 - SEO - page title, meta tags, og tags.
+- Add utility classes for CSS.
